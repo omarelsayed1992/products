@@ -1,0 +1,2 @@
+# products
+Products API example
