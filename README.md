@@ -13,6 +13,7 @@ Sample Products API
 
 Directory guide
 ---------------
+```
 --Controller
 |
 -------Products controller ( Hold all actions )
@@ -26,3 +27,4 @@ Directory guide
 --Mocks ( Hold API sample data )
 |
 --Test ( Hold simple tests )
+```
